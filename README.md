@@ -1,5 +1,5 @@
 # TW-Cardo-Update
-Update of the Tiddlywiki Plugin Cardo
+Update of the Tiddlywiki5 Plugin Cardo
 
 Cardo is the best GTD plugin for Tiddlywiki5 ever IMO.
 
