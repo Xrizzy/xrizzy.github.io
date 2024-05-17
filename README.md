@@ -16,6 +16,6 @@ When I open [xrizzy.github.io](https://xrizzy.github.io/#A%20Big%20Project%20Im%
 
 >**uncaught exception: Linked List only accepts string values, not dcb08717-3d17-4d9a-aad7-826a54bcf5df**
 
-I am at a loss. Maybe someone can point me in the right direction.
+I am at a loss. Maybe someone can point me in the right direction in this discussion [here](https://github.com/Xrizzy/xrizzy.github.io/discussions/3) on github.
 
 Thank you in advance.
